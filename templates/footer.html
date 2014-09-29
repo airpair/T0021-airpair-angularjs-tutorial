@@ -1,0 +1,5 @@
+<footer>
+    <div class="container">
+        <p><a href="https://github.com/outrightmental/angularjs-tutorial-1">&hearts; on github</a></p>
+    </div>
+</footer>
